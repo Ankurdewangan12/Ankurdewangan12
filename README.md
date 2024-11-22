@@ -1,4 +1,4 @@
-![Header](github-header-image.png)
+![Header](github_banner_image.png)
 <h1 align="center">Hi 👋, I'm Ankur Dewangan</h1>
 <h3 align="center">I am Passionate Machine Learning Engineer | Full Stack Developer | AI/ML Enthusiast | Building Scalable Solutions with Python, C++, Java, TensorFlow, React</h3>
 
