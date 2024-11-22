@@ -1,5 +1,5 @@
 ![Header](github-header-image.png)
-<h1 align="center">Hi 👋, I'm Ankur Dewangan</h1>
+<h1 align="center">Hi 👋, I'm Ankur Dewangan </h1>
 <h3 align="center">I am Passionate Machine Learning Engineer | Full Stack Developer | AI/ML Enthusiast | Building Scalable Solutions with Python, C++, Java, TensorFlow, React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurdewangan12&label=Profile%20views&color=0e75b6&style=flat" alt="ankurdewangan12" /> </p>
